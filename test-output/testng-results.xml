@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-08T22:43:17 CST" name="Default suite" finished-at="2020-02-08T22:43:41 CST" duration-ms="23942">
+    <groups>
+    </groups>
+    <test started-at="2020-02-08T22:43:17 CST" name="Default test" finished-at="2020-02-08T22:43:41 CST" duration-ms="23942">
+      <class name="classTestNG.ClassNotesClass5">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:classTestNG.ClassNotesClass5@7d3a22a9]" started-at="2020-02-08T22:43:17 CST" name="startBrowser" finished-at="2020-02-08T22:43:24 CST" duration-ms="6756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="validUserShouldBeAbleToLogin()[pri:1, instance:classTestNG.ClassNotesClass5@7d3a22a9]" started-at="2020-02-08T22:43:24 CST" name="validUserShouldBeAbleToLogin" finished-at="2020-02-08T22:43:29 CST" duration-ms="5086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUserShouldBeAbleToLogin -->
+        <test-method is-config="true" signature="close()[pri:0, instance:classTestNG.ClassNotesClass5@7d3a22a9]" started-at="2020-02-08T22:43:29 CST" name="close" finished-at="2020-02-08T22:43:30 CST" duration-ms="729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:classTestNG.ClassNotesClass5@7d3a22a9]" started-at="2020-02-08T22:43:30 CST" name="startBrowser" finished-at="2020-02-08T22:43:36 CST" duration-ms="6131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="invalidUsersShouldNotBeAbleToLogin()[pri:2, instance:classTestNG.ClassNotesClass5@7d3a22a9]" started-at="2020-02-08T22:43:36 CST" name="invalidUsersShouldNotBeAbleToLogin" finished-at="2020-02-08T22:43:41 CST" duration-ms="4546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidUsersShouldNotBeAbleToLogin -->
+        <test-method is-config="true" signature="close()[pri:0, instance:classTestNG.ClassNotesClass5@7d3a22a9]" started-at="2020-02-08T22:43:41 CST" name="close" finished-at="2020-02-08T22:43:41 CST" duration-ms="663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- classTestNG.ClassNotesClass5 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
