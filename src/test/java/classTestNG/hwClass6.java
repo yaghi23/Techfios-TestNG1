@@ -15,6 +15,7 @@ import org.testng.annotations.Test;
 //Scenario: Add new account on Techfios Site 
 //Beginner:
 //1: Open Browser and go to site http://techfios.com/test/billing/?ng=admin/
+//
 //2. Enter username: techfiosdemo@gmail.com
 //3. Enter password: abc123
 //4. Click login button
